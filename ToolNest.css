@@ -1,3 +1,11 @@
 .components{
-    background-color: red;
+    text-align: center;
+    padding:1rem;
+}
+.images{
+    height:15rem;
+    margin-bottom:1rem;
+}
+.text{
+    font-size:1.5rem
 }
